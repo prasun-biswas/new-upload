@@ -1,0 +1,9 @@
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\HashtableExample\HashtableExample\bin\Debug\HashtableExample.exe.config
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\HashtableExample\HashtableExample\bin\Debug\HashtableExample.exe
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\HashtableExample\HashtableExample\bin\Debug\HashtableExample.pdb
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\HashtableExample\HashtableExample\obj\Debug\HashtableExample.csprojResolveAssemblyReference.cache
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\HashtableExample\HashtableExample\obj\Debug\HashtableExample.exe
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\HashtableExample\HashtableExample\obj\Debug\HashtableExample.pdb
+E:\rockey's closet\basis\19 Sep 2014\HashtableExample\HashtableExample\bin\Debug\HashtableExample.exe.config
+E:\rockey's closet\basis\19 Sep 2014\HashtableExample\HashtableExample\obj\Debug\HashtableExample.exe
+E:\rockey's closet\basis\19 Sep 2014\HashtableExample\HashtableExample\obj\Debug\HashtableExample.pdb

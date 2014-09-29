@@ -1,0 +1,6 @@
+C:\Users\acer\Desktop\CircleApp\CircleApp\bin\Debug\CircleApp.exe.config
+C:\Users\acer\Desktop\CircleApp\CircleApp\obj\Debug\CircleApp.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\CircleApp\CircleApp\bin\Debug\CircleApp.exe
+C:\Users\acer\Desktop\CircleApp\CircleApp\bin\Debug\CircleApp.pdb
+C:\Users\acer\Desktop\CircleApp\CircleApp\obj\Debug\CircleApp.exe
+C:\Users\acer\Desktop\CircleApp\CircleApp\obj\Debug\CircleApp.pdb

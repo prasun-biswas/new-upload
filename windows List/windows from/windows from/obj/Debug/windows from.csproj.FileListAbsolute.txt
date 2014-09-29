@@ -1,0 +1,12 @@
+C:\Users\PC21\Desktop\basic class\windows from\windows from\bin\Debug\windows from.exe.config
+C:\Users\PC21\Desktop\basic class\windows from\windows from\bin\Debug\windows from.exe
+C:\Users\PC21\Desktop\basic class\windows from\windows from\bin\Debug\windows from.pdb
+C:\Users\PC21\Desktop\basic class\windows from\windows from\obj\Debug\windows from.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\basic class\windows from\windows from\obj\Debug\windows_from.Form1.resources
+C:\Users\PC21\Desktop\basic class\windows from\windows from\obj\Debug\windows_from.Properties.Resources.resources
+C:\Users\PC21\Desktop\basic class\windows from\windows from\obj\Debug\windows from.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\basic class\windows from\windows from\obj\Debug\windows from.exe
+C:\Users\PC21\Desktop\basic class\windows from\windows from\obj\Debug\windows from.pdb
+E:\rockey's closet\basis\16 Sep 2014\windows from\windows from\windows from\bin\Debug\windows from.exe.config
+E:\rockey's closet\basis\16 Sep 2014\windows from\windows from\windows from\obj\Debug\windows from.exe
+E:\rockey's closet\basis\16 Sep 2014\windows from\windows from\windows from\obj\Debug\windows from.pdb

@@ -1,0 +1,18 @@
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe.config
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.pdb
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csprojResolveAssemblyReference.cache
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.FileUI.resources
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.Properties.Resources.resources
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csproj.GenerateResource.Cache
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.exe
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.pdb
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe.config
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.exe
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.pdb
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.exe
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\bin\Debug\FileOperationApp.pdb
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csprojResolveAssemblyReference.cache
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.FileUI.resources
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.Properties.Resources.resources
+E:\rockey's closet\basis\19 Sep 2014\FileOperationApp\FileOperationApp\obj\Debug\FileOperationApp.csproj.GenerateResource.Cache

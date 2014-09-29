@@ -1,0 +1,6 @@
+D:\BASIS Training Contents\OOP0149\16 Sep 2014\DataStructureExample\DataStructureExample\bin\Debug\DataStructureExample.exe.config
+D:\BASIS Training Contents\OOP0149\16 Sep 2014\DataStructureExample\DataStructureExample\bin\Debug\DataStructureExample.exe
+D:\BASIS Training Contents\OOP0149\16 Sep 2014\DataStructureExample\DataStructureExample\bin\Debug\DataStructureExample.pdb
+D:\BASIS Training Contents\OOP0149\16 Sep 2014\DataStructureExample\DataStructureExample\obj\Debug\DataStructureExample.csprojResolveAssemblyReference.cache
+D:\BASIS Training Contents\OOP0149\16 Sep 2014\DataStructureExample\DataStructureExample\obj\Debug\DataStructureExample.exe
+D:\BASIS Training Contents\OOP0149\16 Sep 2014\DataStructureExample\DataStructureExample\obj\Debug\DataStructureExample.pdb

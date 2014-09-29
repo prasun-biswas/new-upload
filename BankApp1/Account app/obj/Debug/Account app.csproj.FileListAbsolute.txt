@@ -1,0 +1,21 @@
+C:\Users\acer\Desktop\Account app\Account app\bin\Debug\Account app.exe.config
+C:\Users\acer\Desktop\Account app\Account app\obj\Debug\Account app.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Account app\Account app\obj\Debug\Account_app.Properties.Resources.resources
+C:\Users\acer\Desktop\Account app\Account app\obj\Debug\Account app.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Account app\Account app\bin\Debug\Account app.exe
+C:\Users\acer\Desktop\Account app\Account app\bin\Debug\Account app.pdb
+C:\Users\acer\Desktop\Account app\Account app\obj\Debug\Account app.exe
+C:\Users\acer\Desktop\Account app\Account app\obj\Debug\Account app.pdb
+C:\Users\acer\Desktop\Account app\Account app\obj\Debug\Account_app.Account1.resources
+D:\Account app\Account app\bin\Debug\Account app.exe.config
+D:\Account app\Account app\obj\Debug\Account app.exe
+D:\Account app\Account app\obj\Debug\Account app.pdb
+D:\Account app\Account app\bin\Debug\Account app.exe
+D:\Account app\Account app\bin\Debug\Account app.pdb
+D:\Account app\Account app\obj\Debug\Account app.csprojResolveAssemblyReference.cache
+D:\Account app\Account app\obj\Debug\Account_app.Account1.resources
+D:\Account app\Account app\obj\Debug\Account_app.Properties.Resources.resources
+D:\Account app\Account app\obj\Debug\Account app.csproj.GenerateResource.Cache
+E:\rockey's closet\basis\homePractice\26 Sep\BankApp1\Account app\bin\Debug\Account app.exe.config
+E:\rockey's closet\basis\homePractice\26 Sep\BankApp1\Account app\obj\Debug\Account app.exe
+E:\rockey's closet\basis\homePractice\26 Sep\BankApp1\Account app\obj\Debug\Account app.pdb

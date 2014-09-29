@@ -1,0 +1,9 @@
+D:\BASIS Training Contents\OOP0149\19 Sep 2014\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+E:\rockey's closet\basis\19 Sep 2014\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe.config
+E:\rockey's closet\basis\19 Sep 2014\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.exe
+E:\rockey's closet\basis\19 Sep 2014\DictionaryExample\DictionaryExample\bin\Debug\DictionaryExample.pdb
+E:\rockey's closet\basis\19 Sep 2014\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csprojResolveAssemblyReference.cache
+E:\rockey's closet\basis\19 Sep 2014\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.Properties.Resources.resources
+E:\rockey's closet\basis\19 Sep 2014\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.csproj.GenerateResource.Cache
+E:\rockey's closet\basis\19 Sep 2014\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.exe
+E:\rockey's closet\basis\19 Sep 2014\DictionaryExample\DictionaryExample\obj\Debug\DictionaryExample.pdb
